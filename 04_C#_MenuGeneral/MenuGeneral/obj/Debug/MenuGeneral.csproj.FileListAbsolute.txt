@@ -1,0 +1,7 @@
+D:\misae\Documentos\Bootcamp\Practicas Bootcam\Semana 2 C#\Día 2\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.exe.config
+D:\misae\Documentos\Bootcamp\Practicas Bootcam\Semana 2 C#\Día 2\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.exe
+D:\misae\Documentos\Bootcamp\Practicas Bootcam\Semana 2 C#\Día 2\MenuGeneral\MenuGeneral\bin\Debug\MenuGeneral.pdb
+D:\misae\Documentos\Bootcamp\Practicas Bootcam\Semana 2 C#\Día 2\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.csproj.AssemblyReference.cache
+D:\misae\Documentos\Bootcamp\Practicas Bootcam\Semana 2 C#\Día 2\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.csproj.CoreCompileInputs.cache
+D:\misae\Documentos\Bootcamp\Practicas Bootcam\Semana 2 C#\Día 2\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.exe
+D:\misae\Documentos\Bootcamp\Practicas Bootcam\Semana 2 C#\Día 2\MenuGeneral\MenuGeneral\obj\Debug\MenuGeneral.pdb

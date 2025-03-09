@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\misae\\Documentos\\Bootcamp\\Practicas Bootcam\\Semana 2 C#\\D\u00EDa 2\\MenuGeneral\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14074632-6910-4130-AF66-FC21DE6BDA38}|MenuGeneral\\MenuGeneral.csproj|d:\\misae\\documentos\\bootcamp\\practicas bootcam\\semana 2 c#\\d\u00EDa 2\\menugeneral\\menugeneral\\isr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14074632-6910-4130-AF66-FC21DE6BDA38}|MenuGeneral\\MenuGeneral.csproj|solutionrelative:menugeneral\\isr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14074632-6910-4130-AF66-FC21DE6BDA38}|MenuGeneral\\MenuGeneral.csproj|d:\\misae\\documentos\\bootcamp\\practicas bootcam\\semana 2 c#\\d\u00EDa 2\\menugeneral\\menugeneral\\poliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14074632-6910-4130-AF66-FC21DE6BDA38}|MenuGeneral\\MenuGeneral.csproj|solutionrelative:menugeneral\\poliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14074632-6910-4130-AF66-FC21DE6BDA38}|MenuGeneral\\MenuGeneral.csproj|D:\\misae\\Documentos\\Bootcamp\\Practicas Bootcam\\Semana 2 C#\\D\u00EDa 2\\MenuGeneral\\menugeneral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14074632-6910-4130-AF66-FC21DE6BDA38}|MenuGeneral\\MenuGeneral.csproj|solutionrelative:menugeneral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14074632-6910-4130-AF66-FC21DE6BDA38}|MenuGeneral\\MenuGeneral.csproj|d:\\misae\\documentos\\bootcamp\\practicas bootcam\\semana 2 c#\\d\u00EDa 2\\menugeneral\\menugeneral\\archivotxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14074632-6910-4130-AF66-FC21DE6BDA38}|MenuGeneral\\MenuGeneral.csproj|solutionrelative:menugeneral\\archivotxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{67d15d2e-5bac-311f-82c3-d49feab601fd}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c478b6ac-54a8-3bd5-bc46-494f58b422c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Poliza.cs",
+              "DocumentMoniker": "D:\\misae\\Documentos\\Bootcamp\\Practicas Bootcam\\Semana 2 C#\\D\u00EDa 2\\MenuGeneral\\MenuGeneral\\Poliza.cs",
+              "RelativeDocumentMoniker": "MenuGeneral\\Poliza.cs",
+              "ToolTip": "D:\\misae\\Documentos\\Bootcamp\\Practicas Bootcam\\Semana 2 C#\\D\u00EDa 2\\MenuGeneral\\MenuGeneral\\Poliza.cs",
+              "RelativeToolTip": "MenuGeneral\\Poliza.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T23:42:56.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Archivotxt.cs",
+              "DocumentMoniker": "D:\\misae\\Documentos\\Bootcamp\\Practicas Bootcam\\Semana 2 C#\\D\u00EDa 2\\MenuGeneral\\MenuGeneral\\Archivotxt.cs",
+              "RelativeDocumentMoniker": "MenuGeneral\\Archivotxt.cs",
+              "ToolTip": "D:\\misae\\Documentos\\Bootcamp\\Practicas Bootcam\\Semana 2 C#\\D\u00EDa 2\\MenuGeneral\\MenuGeneral\\Archivotxt.cs",
+              "RelativeToolTip": "MenuGeneral\\Archivotxt.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T23:25:19.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\misae\\Documentos\\Bootcamp\\Practicas Bootcam\\Semana 2 C#\\D\u00EDa 2\\MenuGeneral\\MenuGeneral\\Program.cs",
+              "RelativeDocumentMoniker": "MenuGeneral\\Program.cs",
+              "ToolTip": "D:\\misae\\Documentos\\Bootcamp\\Practicas Bootcam\\Semana 2 C#\\D\u00EDa 2\\MenuGeneral\\MenuGeneral\\Program.cs",
+              "RelativeToolTip": "MenuGeneral\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wFQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T16:56:16.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISR.cs",
+              "DocumentMoniker": "D:\\misae\\Documentos\\Bootcamp\\Practicas Bootcam\\Semana 2 C#\\D\u00EDa 2\\MenuGeneral\\MenuGeneral\\ISR.cs",
+              "RelativeDocumentMoniker": "MenuGeneral\\ISR.cs",
+              "ToolTip": "D:\\misae\\Documentos\\Bootcamp\\Practicas Bootcam\\Semana 2 C#\\D\u00EDa 2\\MenuGeneral\\MenuGeneral\\ISR.cs*",
+              "RelativeToolTip": "MenuGeneral\\ISR.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:29:23.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
